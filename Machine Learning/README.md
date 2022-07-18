@@ -11,3 +11,5 @@
 [The Hundred Page Of Machine Learning](https://drive.google.com/file/d/1e1go0aetN3_NjPFyVmTgTcOSeeYla-9k/view?usp=sharing)
 
 [Thoughtful Machine Learning with Python](https://drive.google.com/file/d/1KuwkF6Rg3BMXJoroi91hK2ygGWtQ2x4O/view?usp=sharing)
+
+[Reinforcement Learning] (https://drive.google.com/file/d/1euzv4-EF8a6OEsa-j6JDdJpGg07W6jiH/view?usp=sharing)
