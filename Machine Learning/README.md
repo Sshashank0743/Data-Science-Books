@@ -18,4 +18,6 @@
 
 [Unsupervised Machine Learning](https://drive.google.com/file/d/1eWvJ9FHu5iZJNM7D0SWTcSyLSapKQNAU/view?usp=sharing)
 
-[Machine Learning Cheatsheet](https://drive.google.com/file/d/1apPJexdVt11Dd8KgPrnTw5yIORW2UVkc/view?usp=sharing, https://drive.google.com/file/d/1auWn4StpHrFLuGCp8CbaLEbAQt-pMBf4/view?usp=sharing)
+[Machine Learning Cheatsheet](https://drive.google.com/file/d/1apPJexdVt11Dd8KgPrnTw5yIORW2UVkc/view?usp=sharing) 
+
+[Machine Learning Q&A](https://drive.google.com/file/d/1auWn4StpHrFLuGCp8CbaLEbAQt-pMBf4/view?usp=sharing)
