@@ -17,3 +17,5 @@
 [Python Machine Learning Case Studies](https://drive.google.com/file/d/14qklZ70gOcrQxrqdN9i4P9or0eMv_YHo/view?usp=sharing)
 
 [Unsupervised Machine Learning](https://drive.google.com/file/d/1eWvJ9FHu5iZJNM7D0SWTcSyLSapKQNAU/view?usp=sharing)
+
+[Machine Learning Cheatsheet](https://drive.google.com/file/d/1apPJexdVt11Dd8KgPrnTw5yIORW2UVkc/view?usp=sharing, https://drive.google.com/file/d/1auWn4StpHrFLuGCp8CbaLEbAQt-pMBf4/view?usp=sharing)
