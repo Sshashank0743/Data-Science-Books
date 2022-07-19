@@ -21,3 +21,11 @@
 [Machine Learning Cheatsheet](https://drive.google.com/file/d/1apPJexdVt11Dd8KgPrnTw5yIORW2UVkc/view?usp=sharing) 
 
 [Machine Learning Q&A](https://drive.google.com/file/d/1auWn4StpHrFLuGCp8CbaLEbAQt-pMBf4/view?usp=sharing)
+
+[ML From Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
+
+[Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
+
+[A Comprehensive Guide to Machine Learning](https://www.eecs189.org/static/resources/comprehensive-guide.pdf)
+
+
